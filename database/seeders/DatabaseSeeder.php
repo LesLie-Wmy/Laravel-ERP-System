@@ -33,8 +33,8 @@ class DatabaseSeeder extends Seeder
             ClientsTableSeeder::class,
             ProductsTableSeeder::class,
             WarehousesTableSeeder::class,
-//            PurchaseInvoicesTableSeeder::class,
-//            SalesInvoicesTableSeeder::class
+            PurchaseInvoicesTableSeeder::class,
+            SalesInvoicesTableSeeder::class
         ]);
     }
 }

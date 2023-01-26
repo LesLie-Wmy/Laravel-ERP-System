@@ -6,7 +6,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
-        "carlos-meneses/laravel-mpdf": "^2.1",
+        "carlos-meneses/laravel-mpdf": "*",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.2",
         "intervention/image": "^2.7",
@@ -17,6 +17,7 @@
         "livewire/livewire": "^2.6",
         "maatwebsite/excel": "^3.1",
         "mcamara/laravel-localization": "^1.6",
+        "mpdf/mpdf": "^8.1",
         "picqer/php-barcode-generator": "^2.2",
         "psr/simple-cache": "^1.0",
         "spatie/laravel-permission": "^5.1",
